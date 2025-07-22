@@ -11,7 +11,7 @@ This website was created as part of my journey to develop and showcase my techni
  View the current projects within the website 
  contact me for a job or collaboration opportunities 
 
- #Features
+ # Features
  - Mobile-Responsive Design
  - Interactive nagivation Bar (containing the home, about me, skills, projects, and contact me)
  - Personal Bio section
