@@ -32,5 +32,5 @@ This website was created as part of my journey to develop and showcase my techni
 
 # Contact
 - Email : thabilemamogobo024@gmail.com
-- GitHub : --
-- LinkedIn : --
+- GitHub : https://github.com/ThabileMamogobo/Portfolio-Website
+- LinkedIn: https://www.linkedin.com/in/thabile-mamogobo-b4798a2b5/
