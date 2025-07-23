@@ -30,6 +30,10 @@ This website was created as part of my journey to develop and showcase my techni
  - Google fonts (Kumbh Sans) - for the font used for the whole website
  - GitHub Pages - for the development
 
+# HTML 
+# CSS
+# JAVASCRIPT
+
 # Contact
 - Email : thabilemamogobo024@gmail.com
 - GitHub : https://github.com/ThabileMamogobo/Portfolio-Website
