@@ -33,6 +33,8 @@ This website was created as part of my journey to develop and showcase my techni
 # HTML 
 This is the HTML structure for my personal portfolio website, designed to show my background skills (soft and technical), projects, contact and background in a clean and user-friendly layout. The website begins with a responsive navigation bar that allows visitors to easily access different sections of the site, which include Hoome, About, Skills, project and Contact. The site uses a custom Google font which i downloaded called Kumbh Sans for a proffessional look.
 
+The homepage introduces me as Thabile, a final-year BSc in IT student. And it also briefly descibes my proffesional interests and includes quick-access social links to my GitHub and LinkedIn profiles. Also including a about me button that directs you to the about me Page. That section provides a short biography, that emphasise my personal traits 
+
 
 # CSS
 # JAVASCRIPT
