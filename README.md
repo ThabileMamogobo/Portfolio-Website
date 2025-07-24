@@ -31,6 +31,9 @@ This website was created as part of my journey to develop and showcase my techni
  - GitHub Pages - for the development
 
 # HTML 
+This is the HTML structure for my personal portfolio website, designed to show my background skills (soft and technical), projects, contact and background in a clean and user-friendly layout. The website begins with a responsive navigation bar that allows visitors to easily access different sections of the site, which include Hoome, About, Skills, project and Contact. The site uses a custom Google font which i downloaded called Kumbh Sans for a proffessional look.
+
+
 # CSS
 # JAVASCRIPT
 
