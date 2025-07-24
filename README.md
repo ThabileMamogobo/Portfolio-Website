@@ -33,7 +33,12 @@ This website was created as part of my journey to develop and showcase my techni
 # HTML 
 This is the HTML structure for my personal portfolio website, designed to show my background skills (soft and technical), projects, contact and background in a clean and user-friendly layout. The website begins with a responsive navigation bar that allows visitors to easily access different sections of the site, which include Hoome, About, Skills, project and Contact. The site uses a custom Google font which i downloaded called Kumbh Sans for a proffessional look.
 
-The homepage introduces me as Thabile, a final-year BSc in IT student. And it also briefly descibes my proffesional interests and includes quick-access social links to my GitHub and LinkedIn profiles. Also including a about me button that directs you to the about me Page. That section provides a short biography, that emphasise my personal traits 
+The homepage introduces me as Thabile, a final-year BSc in IT student. And it also briefly descibes my proffesional interests and includes quick-access social links to my GitHub and LinkedIn profiles. Also including a about me button that directs you to the about me Page. That section provides a short biography, that emphasise my personal traits, work ethic and career goals. It also includes a downloadable PDF version of my CV, making it easy for potencial employers or collaboratorsto view my full creditials. 
+
+Following this, the skills section highlights a mix of soft skills and the technical skills. This section is presented in a responsive card layout to keept each contect neatly organised and easy to read as well as navigate. The Projects section features two personal or team-based projects projects. Each project is displayed as a card cntaining a title short description of the project, and a relevant image. 
+
+Finally, the contact section provides a user-friendly form where visitors can input their name and message, and optionally email me directly (although it will take you to the email app and not sent the message). Not to mention that my Github and LinkedIn links are reiterated through clickable icons that i downloaded.
+
 
 
 # CSS
